@@ -9,6 +9,7 @@ Verificamos que todas as comparações retornaram true o que não faz sentido.
 
 
 Arrumar o código abaixo para que funcione e faça sentido:
+Obs: O resultado do log tem que ter sentido com o resultado da comparação com o texto dos if´s.
 
 let numeroUm = 1
 let stringUm = '1'
