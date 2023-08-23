@@ -17,11 +17,9 @@ let escolhaCategoria = "";
 while(adicionarProduto == true) {
     
     adicionarProduto = confirm("Você deseja adicionar um produto na sua lista de compras?");
-    console.log(adicionarProduto);
     
     if(adicionarProduto == true) {
         produto = prompt("Qual produto você deseja inserir na lista?");
-        console.log(adicionarProduto);
 
         escolhaCategoria = prompt("Qual a categoria desse produto? Digite o número! \n 0 - Frutas \n 1 - Laticinios \n 2 - Congelados \n 3 - Doces \n 4 - Bebidas \n 5 - Limpeza \n 6 - Outras");
 
