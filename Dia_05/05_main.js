@@ -32,10 +32,10 @@ while(adicionarProduto == true) {
 
 alert(`Lista de Compras: \n Frutas: ${frutas} \n Laticinios: ${laticinios} \n Congelados: ${congelados} \n Doces: ${doces} \n Bebidas: ${bebidas} \n Limpeza: ${limpeza} \n Outras: ${outras}`);
 
-document.write(`Frutas: ${frutas}`);
-document.write(`Laticinios: ${laticinios}`);
-document.write(`Congelados: ${congelados}`);
-document.write(`Doces: ${doces}`);
-document.write(`Bebidas: ${bebidas}`);
-document.write(`Limpeza: ${limpeza}`);
-document.write(`Outras: ${outras}`);
+document.write(`Frutas: ${frutas}<br>`);
+document.write(`Laticinios: ${laticinios}<br>`);
+document.write(`Congelados: ${congelados}<br>`);
+document.write(`Doces: ${doces}<br>`);
+document.write(`Bebidas: ${bebidas}<br>`);
+document.write(`Limpeza: ${limpeza}<br>`);
+document.write(`Outras: ${outras}<br>`);
