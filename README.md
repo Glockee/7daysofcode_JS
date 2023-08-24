@@ -2,7 +2,7 @@
 
 Desafio Alura 7 Days of Code - JavaScript
 
-<img src="/imagens/banner_7dayofcode_js.png>
+![Banner sobre desafio alura.](/imagens/banner_7dayofcode_js.png)
 
 Desafio aberto para todos com o intuito de praticarmos o que aprendemos na formação do zero em programação, são exercicios básicos para que esta começando no mundo da programação.
 
