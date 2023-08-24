@@ -18,4 +18,4 @@ Os arquivos em txt são um descritivo de como funciona o exercicio, um explicati
 
 Precisaremos de um navegador para rodar o arquivos.html e dentro do navegador, em algumas aulas precisaremos utilizar a função inspecionar para verificar o console. Para isto basta abrir o arquivo html em um navegador, clicar com o botão direito do mouse e ir na opção inspecionar. Quando abrir, no menu superior da nova aba, ir em console, fica ao lado de elemento.
 
-#Foto da onde fica o console do log ! talvez faça sentido colocar o passo a passo em fotos para facilitar !
+![Foto explicando onde fica o console.](/imagens/console.png)
